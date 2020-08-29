@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\kang\documents\visual studio 2017\projects\ishma25(파일 2차원배열)\ishma25(파일 2차원배열)\main.c(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\kang\documents\visual studio 2017\projects\ishma25(파일 2차원배열)\ishma25(파일 2차원배열)\main.c(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  Ishma25(파일 2차원배열).vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma25(파일 2차원배열)\Debug\Ishma25(파일 2차원배열).exe
+  Ishma25(파일 2차원배열).vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma25(파일 2차원배열)\Debug\Ishma25(파일 2차원배열).pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  addsub_driver.c
+c:\users\kang\documents\visual studio 2017\projects\ishma17(여러개의 c파일을 합친 하나의 파일)\ishma17(여러개의 c파일을 합친 하나의 파일)\addsub_driver.c(5): warning C4013: 'mod'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma17(여러개의 c파일을 합친 하나의 파일)\ishma17(여러개의 c파일을 합친 하나의 파일)\addsub_driver.c(6): warning C4013: 'mul'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Ishma17(여러개의 C파일을 합친 하나의 파일).vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma17(여러개의 C파일을 합친 하나의 파일)\Debug\Ishma17(여러개의 C파일을 합친 하나의 파일).exe
+  Ishma17(여러개의 C파일을 합친 하나의 파일).vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma17(여러개의 C파일을 합친 하나의 파일)\Debug\Ishma17(여러개의 C파일을 합친 하나의 파일).pdb (Partial PDB)

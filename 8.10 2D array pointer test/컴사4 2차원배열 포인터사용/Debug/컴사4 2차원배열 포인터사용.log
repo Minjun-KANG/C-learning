@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\kang\documents\visual studio 2017\projects\컴사4 2차원배열 포인터사용\컴사4 2차원배열 포인터사용\main.c(14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[4]'입니다.
+c:\users\kang\documents\visual studio 2017\projects\컴사4 2차원배열 포인터사용\컴사4 2차원배열 포인터사용\main.c(15): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\kang\documents\visual studio 2017\projects\컴사4 2차원배열 포인터사용\컴사4 2차원배열 포인터사용\main.c(18): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  컴사4 2차원배열 포인터사용.vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\컴사4 2차원배열 포인터사용\Debug\컴사4 2차원배열 포인터사용.exe
+  컴사4 2차원배열 포인터사용.vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\컴사4 2차원배열 포인터사용\Debug\컴사4 2차원배열 포인터사용.pdb (Partial PDB)

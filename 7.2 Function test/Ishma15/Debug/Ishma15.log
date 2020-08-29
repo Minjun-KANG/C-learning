@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\kang\documents\visual studio 2017\projects\ishma15(첫번째 함수사용)\ishma15\소스.c(29): warning C4716: 'counter': 값을 반환해야 합니다.
+  Ishma15.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma15(첫번째 함수사용)\Debug\Ishma15.exe
+  Ishma15.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma15(첫번째 함수사용)\Debug\Ishma15.pdb (Partial PDB)

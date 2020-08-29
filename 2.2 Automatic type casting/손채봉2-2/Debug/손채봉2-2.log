@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\kang\documents\visual studio 2017\projects\손채봉2-2\손채봉2-2\소스.c(10): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kang\documents\visual studio 2017\projects\손채봉2-2\손채봉2-2\소스.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  손채봉2-2.vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\손채봉2-2\Debug\손채봉2-2.exe
+  손채봉2-2.vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\손채봉2-2\Debug\손채봉2-2.pdb (Partial PDB)

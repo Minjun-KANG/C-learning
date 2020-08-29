@@ -1,0 +1,14 @@
+﻿  impl.c
+c:\users\kang\documents\visual studio 2017\projects\ishma homework_2(2017_05_31 과제)\ishma homework3\impl.c(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma homework_2(2017_05_31 과제)\ishma homework3\impl.c(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma homework_2(2017_05_31 과제)\ishma homework3\impl.c(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma homework_2(2017_05_31 과제)\ishma homework3\impl.c(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma homework_2(2017_05_31 과제)\ishma homework3\impl.c(46): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma homework_2(2017_05_31 과제)\ishma homework3\impl.c(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\kang\documents\visual studio 2017\projects\ishma homework_2(2017_05_31 과제)\ishma homework3\impl.c(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\kang\documents\visual studio 2017\projects\ishma homework_2(2017_05_31 과제)\ishma homework3\impl.c(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+  Ishma homework3.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma homework_2(2017_05_31 과제)\Debug\Ishma homework3.exe
+  Ishma homework3.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma homework_2(2017_05_31 과제)\Debug\Ishma homework3.pdb (Partial PDB)

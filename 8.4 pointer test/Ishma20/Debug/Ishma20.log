@@ -1,0 +1,12 @@
+﻿  change name.c
+c:\users\kang\documents\visual studio 2017\projects\ishma20(포인터 연습)\ishma20\change name.c(31): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma20(포인터 연습)\ishma20\change name.c(14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma20(포인터 연습)\ishma20\change name.c(15): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma20(포인터 연습)\ishma20\change name.c(18): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma20(포인터 연습)\ishma20\change name.c(22): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int ***'입니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma20(포인터 연습)\ishma20\change name.c(23): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma20(포인터 연습)\ishma20\change name.c(24): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma20(포인터 연습)\ishma20\change name.c(28): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\kang\documents\visual studio 2017\projects\ishma20(포인터 연습)\ishma20\change name.c(29): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  Ishma20.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma20(포인터 연습)\Debug\Ishma20.exe
+  Ishma20.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma20(포인터 연습)\Debug\Ishma20.pdb (Partial PDB)

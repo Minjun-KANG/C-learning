@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\ansal\source\repos\final\final\소스.c(17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\ansal\source\repos\final\final\소스.c(19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ansal\source\repos\final\final\소스.c(16): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  Final.vcxproj -> C:\Users\ansal\source\repos\Final\Debug\Final.exe

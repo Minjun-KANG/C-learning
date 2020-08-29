@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\kang\documents\visual studio 2017\projects\컴사 2(구조체 사용)\컴사 2(구조체 사용)\main.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  컴사 2(구조체 사용).vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\컴사 2(구조체 사용)\Debug\컴사 2(구조체 사용).exe
+  컴사 2(구조체 사용).vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\컴사 2(구조체 사용)\Debug\컴사 2(구조체 사용).pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  sub.c
+c:\users\kang\documents\visual studio 2017\projects\컴사 1(static 변수사용)\컴사 1(static 변수사용)\sub.c(6): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  컴사 1(static 변수사용).vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\컴사 1(static 변수사용)\Debug\컴사 1(static 변수사용).exe
+  컴사 1(static 변수사용).vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\컴사 1(static 변수사용)\Debug\컴사 1(static 변수사용).pdb (Partial PDB)

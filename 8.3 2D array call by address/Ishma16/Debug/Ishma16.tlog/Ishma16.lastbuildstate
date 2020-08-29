@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.14393.0
+Debug|Win32|C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma16(함수에 다차원배열값 반환하기, 다차원 배열 한줄로 입력)\|

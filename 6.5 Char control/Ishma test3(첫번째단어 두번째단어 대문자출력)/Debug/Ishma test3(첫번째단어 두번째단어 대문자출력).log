@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\kang\documents\visual studio 2017\projects\ishma test3(첫번째단어 두번째단어 대문자출력)\ishma test3(첫번째단어 두번째단어 대문자출력)\소스.c(9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Ishma test3(첫번째단어 두번째단어 대문자출력).vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma test3(첫번째단어 두번째단어 대문자출력)\Debug\Ishma test3(첫번째단어 두번째단어 대문자출력).exe
+  Ishma test3(첫번째단어 두번째단어 대문자출력).vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma test3(첫번째단어 두번째단어 대문자출력)\Debug\Ishma test3(첫번째단어 두번째단어 대문자출력).pdb (Partial PDB)

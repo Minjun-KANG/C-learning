@@ -1,0 +1,10 @@
+﻿  main.c
+c:\users\ansal\source\repos\2진수 8진수 16진수변환\2진수 8진수 16진수변환\main.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\source\repos\2진수 8진수 16진수변환\2진수 8진수 16진수변환\main.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\source\repos\2진수 8진수 16진수변환\2진수 8진수 16진수변환\main.c(79): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\ansal\source\repos\2진수 8진수 16진수변환\2진수 8진수 16진수변환\main.c(57): warning C4716: 'oct': 값을 반환해야 합니다.
+c:\users\ansal\source\repos\2진수 8진수 16진수변환\2진수 8진수 16진수변환\main.c(76): warning C4716: 'bin': 값을 반환해야 합니다.
+c:\users\ansal\source\repos\2진수 8진수 16진수변환\2진수 8진수 16진수변환\main.c(53): warning C4716: 'hex': 값을 반환해야 합니다.
+LINK : fatal error LNK1168: C:\Users\ansal\source\repos\2진수 8진수 16진수변환\Debug\2진수 8진수 16진수변환.exe을(를) 쓰기용으로 열 수 없습니다.

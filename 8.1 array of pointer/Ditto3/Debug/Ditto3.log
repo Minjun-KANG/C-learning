@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\kang\documents\visual studio 2017\projects\ditto3\ditto3\소스.c(7): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  Ditto3.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ditto3\Debug\Ditto3.exe
+  Ditto3.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ditto3\Debug\Ditto3.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\kang\documents\visual studio 2017\projects\ishma homework1(5가지 숫자중 큰거 작은거 구별)\ishma homework1\소스.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  Ishma homework1.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma homework1(5가지 숫자중 큰거 작은거 구별)\Debug\Ishma homework1.exe
+  Ishma homework1.vcxproj -> C:\Users\Kang\Documents\Visual Studio 2017\Projects\Ishma homework1(5가지 숫자중 큰거 작은거 구별)\Debug\Ishma homework1.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+﻿  func.c
+c:\users\ansal\source\repos\max, min, avg 연습문제\max, min, avg 연습문제\func.c(7): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\ansal\source\repos\max, min, avg 연습문제\max, min, avg 연습문제\func.c(8): warning C4716: 'max': 값을 반환해야 합니다.
+c:\users\ansal\source\repos\max, min, avg 연습문제\max, min, avg 연습문제\func.c(21): warning C4716: 'min': 값을 반환해야 합니다.
+c:\users\ansal\source\repos\max, min, avg 연습문제\max, min, avg 연습문제\func.c(30): warning C4716: 'avg': 값을 반환해야 합니다.
+  max, min, avg 연습문제.vcxproj -> C:\Users\ansal\source\repos\max, min, avg 연습문제\Debug\max, min, avg 연습문제.exe

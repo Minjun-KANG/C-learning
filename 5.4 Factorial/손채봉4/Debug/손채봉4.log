@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\kang\documents\visual studio 2017\projects\손채봉4\손채봉4\소스.c(8): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  손채봉4.vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\손채봉4\Debug\손채봉4.exe
+  손채봉4.vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\손채봉4\Debug\손채봉4.pdb (Partial PDB)

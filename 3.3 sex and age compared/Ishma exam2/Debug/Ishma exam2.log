@@ -1,0 +1,7 @@
+﻿  1.c
+c:\users\kang\documents\visual studio 2017\projects\ishma exam2\ishma exam2\1.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kang\documents\visual studio 2017\projects\ishma exam2\ishma exam2\1.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  Ishma exam2.vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\Ishma exam2\Debug\Ishma exam2.exe
+  Ishma exam2.vcxproj -> c:\users\kang\documents\visual studio 2017\Projects\Ishma exam2\Debug\Ishma exam2.pdb (Partial PDB)

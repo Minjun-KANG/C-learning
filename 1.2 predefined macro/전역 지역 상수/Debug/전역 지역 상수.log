@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\ansal\source\repos\전역 지역 상수\전역 지역 상수\소스.c(13): warning C4013: 'func'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\ansal\source\repos\전역 지역 상수\전역 지역 상수\소스.c(19): warning C4716: 'func': 값을 반환해야 합니다.
+  전역 지역 상수.vcxproj -> C:\Users\ansal\source\repos\전역 지역 상수\Debug\전역 지역 상수.exe
