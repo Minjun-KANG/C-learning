@@ -6,7 +6,9 @@ It is mainly focused on dealing with the C language grammar.
 * The file is written in Korean. *
 
 Contents
+
 1.printf, Conversion specifier, predefined macro
+
 2. Operations, variable
 3. if, branch, switch-case
 4. for, while, sorting
